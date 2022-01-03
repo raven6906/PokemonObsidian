@@ -1,10 +1,8 @@
 # PokemonObsidian
-Pokemon fan game developed by Obsidian Raven Studios
-
-Developed by Obisidian Raven Studio
-Lead Project Designer - Michael Turner
-
-
+Pokemon fan game developed by Obsidian Raven Studios<br>
+<br>
+Developed by Obisidian Raven Studio<br>
+Lead Project Designer - Michael Turner<br>
 
 
 
@@ -12,12 +10,15 @@ Lead Project Designer - Michael Turner
 
 
 
-Version changes:
-0.1
+
+
+Version changes:<br>
+0.1<br>
 Done 
-- Created starting town of Isabella Town.
-In Progress 
-- Route 1 and Second city
-- Events for Isabella Town, Route 1, and Second City
-- Starter rebalance
-- Storty Arc
+- Created starting town of Isabella Town.<br>
+<br>
+In Progress <br>
+- Route 1 and Second city<br>
+- Events for Isabella Town, Route 1, and Second City<br>
+- Starter rebalance<br>
+- Storty Arc<br>
