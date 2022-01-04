@@ -23,5 +23,5 @@ In Progress <br>
 - Starter rebalance<br>
 - Storty Arc<br>
 <br>
-You must download and move the plugins folder from Pokemon Essentials v19.1 to the game folder root directory, IE ./PokemonObsidian/game.exe folder
+You must extract the plugins.rar file to the game folder root directory, IE ./PokemonObsidian/game.exe folder
 https://reliccastle.com/essentials/
