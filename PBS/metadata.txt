@@ -214,9 +214,8 @@ MapSize = 1,111
 # Route 1
 Outdoor = true
 ShowArea = true
-Bicycle = true
+Bicycle = false
 BicycleAlways = false
-Weather = Sun,100
 WildBattleBGM = Battle wild.mid
 WildVictoryME = Badge get.ogg
 WildCaptureME = Battle capture success.ogg
