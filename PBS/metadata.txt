@@ -212,9 +212,9 @@ MapSize = 1,111
 #-------------------------------
 [043]
 # Route 1
-Outdoor = true
+Outdoor = false
 ShowArea = true
-Bicycle = false
+Bicycle = true
 BicycleAlways = false
 WildBattleBGM = Battle wild.mid
 WildVictoryME = Badge get.ogg
